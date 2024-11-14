@@ -25,7 +25,7 @@ const App: React.FC = () => {
 
       <TodoList
         todos={todos}
-        // setTodos={setTodos}
+        setTodos={setTodos}
         // CompletedTodos={CompletedTodos}
         // setCompletedTodos={setCompletedTodos}
       />
